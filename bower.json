@@ -1,0 +1,20 @@
+{
+  "name": "zoo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "James Lannon"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Jlannon90/zoo.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
