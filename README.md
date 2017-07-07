@@ -8,6 +8,14 @@
 
 _{This is an application that allows a user to add, edit and view zoo animals and sort the displayed animals based on their age.}_
 
+## Wish List Features
+
+* _Ability to upload and display animal photos_
+* _Sort by other categories like diet or location_
+* _Add property that displays when animals are admitted_
+* _Add property that displays animals birthday_
+* _Utilize SASS for styling instead of CSS_
+
 ## Setup/Installation Requirements
 
 * _Clone this repository_
