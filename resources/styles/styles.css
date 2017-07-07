@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  font-family: 'Hammersmith One', sans-serif;
+  background-image: url("./../../resources/img/tiger.jpg");
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Freckle Face', cursive;
+  font-size: 70px;
+  text-shadow: 2px 2px 2px black;
+}
+
+h3 {
+  font-family: 'Freckle Face', cursive;
+  font-size: 40px;
+  text-shadow: 2px 2px 2px black;
+  padding-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.edit {
+  display: flex;
+  justify-content: space-around;
+
+}
+.small-edit {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 30%;
+  text-align: left;
+}
+input {
+  color: black;
+}
+select {
+  color: black;
+}
+label {
+  text-align: left;
+}
+button {
+  background-color: black;
+  border-radius: 2rem;
+  border: 2px solid white;
+}
